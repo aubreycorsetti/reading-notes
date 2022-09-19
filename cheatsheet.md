@@ -5,8 +5,8 @@
 ### TERMINAL GUIDE: 🦮
 
 >* pwd: YOU ARE HERE/folder you are in
->* LS: List contents
->* LS -a: List *ALL* files/content
+>* ls: List contents
+>* ls -a: List *ALL* files/content
 >* clear: Cleans Terminal
 >* mkdir: Make directory
 >* cd: Change directory
