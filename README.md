@@ -1,6 +1,6 @@
 # <center>My Reading Journal for Code Fellows</center>
 
-## <center> *Welcome to my journey with Code Fellows* </center>
+## <center> Welcome to my journey with Code Fellows </center>
 
 ### <center>About Me:</center>
 
