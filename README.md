@@ -23,3 +23,4 @@
 
 ### *Here's my GitHub portfolio link:* <https://github.com/aubreycorsetti/aubreycorsetti>
 Day 1 notes are [Here!](day1.md)
+Cheat sheet notes are [Here!](cheatsheet.md)
