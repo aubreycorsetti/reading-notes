@@ -4,14 +4,14 @@
 
 Today I've learned that there are different kind of text editors. 
 
-==Text Editor==
+<mark>Text Editor</mark>
 
 *text ed·i·tor*
 
 /tekst ˈedədər/
 > A text editor does exactly that... edits text! It also manages files as well. There is no such thing as "worlds best text editor" it's more along the lines of what works best for you personally. If the shoe fits WEAR IT! Every text editor has something different that it can offer whether it be a dark background or auto populating something for you. 
 
-==IDE (Integrated Development Environment== 
+<mark>IDE (Integrated Development Environment</mark> 
 
 *in·te·grat·ed  de·vel·op·ment  en·vi·ron·ment*
 
