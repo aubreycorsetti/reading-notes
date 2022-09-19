@@ -18,7 +18,7 @@ Today I've learned that there are different kind of text editors.
 /ˈin(t)əˌɡrādəd/  /dəˈveləpmənt/  /inˈvīrənmənt/
 > The other kind of text editor is labeled as an IDE stands for Integrated Development Environment. So not only does this edit your text, it also is a file manager, a compiler and a debugger all in one! If you've ever used Microsoft Outlook, you've used an IDE. You do not require an IDE to write code.
 
-The things I *personally* would look for in a text editor is:
+### The things I *personally* would look for in a text editor is:
 * different themes so it's easy on my eyes
 * code completion to reduce typos
 * syntax highlighting so my text is easy to read
