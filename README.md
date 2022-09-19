@@ -1,13 +1,13 @@
-# <p style="text-align:center">My Reading Journal for Code Fellows</p>
+# <center>My Reading Journal for Code Fellows
 
 ## *Welcome to my journey with Code Fellows*
 
 ### About Me:
 
-<center><img src="https://user-images.githubusercontent.com/113921161/191097043-9b9a9697-f103-43bf-a3d8-6b04ea87e1bd.jpg" width="350" /></center>
+<img src="https://user-images.githubusercontent.com/113921161/191097043-9b9a9697-f103-43bf-a3d8-6b04ea87e1bd.jpg" width="350" />
 
 
-<center>Hello! My name is Aubrey Corsetti. I love to paint, build and design things. I can't wait to challenge myself on this new and exciting career path where I can combine many different things I love!</center>
+Hello! My name is Aubrey Corsetti. I love to paint, build and design things. I can't wait to challenge myself on this new and exciting career path where I can combine many different things I love!
 
 ### 🎆 🍹 Cheers to starting something new in 2022! 🍹 🎆
 
@@ -20,4 +20,4 @@ Today I was asked what Growth Mindset is to me... to me that means being open an
 >* ☑️ You've been through worse. **Adapt and grow** like you always have. 
 
 
-### Here's my GitHub portfolio link: *https://github.com/aubreycorsetti*
+### Here's my GitHub portfolio link: *https://github.com/aubreycorsetti*</center>
