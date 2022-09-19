@@ -1,6 +1,6 @@
 # <center>My Reading Journal for Code Fellows</center>
 
-## <center>*Welcome to my journey with Code Fellows*</center>
+## <center> *Welcome to my journey with Code Fellows* </center>
 
 ### <center>About Me:</center>
 
@@ -15,9 +15,9 @@
 
 ### <center>🌻 Three DAILY reminders that I use to keep my "Growth Mindset" 🌻</center>
 
-  >* <center>☑️ <mark>...YET!</mark> Always add the word "yet" to any doubts you have. Learning takes time and dedication.</center>
-  >* <center>☑️ Every mistake is an <mark>opportunity</mark> to learn and find the solution.</center>
-  >* <center>☑️ You've been through worse. <mark>Adapt and grow</mark> like you always have.</center>
+  >* ☑️ <mark>...YET!</mark> Always add the word "yet" to any doubts you have. Learning takes time and dedication.
+  >* ☑️ Every mistake is an <mark>opportunity</mark> to learn and find the solution.
+  >* ☑️ You've been through worse. <mark>Adapt and grow</mark> like you always have.
 
 
-### <center>Here's my GitHub portfolio link: *https://github.com/aubreycorsetti*</center>
+### <center>Here's my GitHub portfolio link: *https://github.com/aubreycorsetti* </center>
