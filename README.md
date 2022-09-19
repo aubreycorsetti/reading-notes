@@ -1,8 +1,13 @@
-# <mark>My Reading Journal for Code Fellows</mark>
+# <p style="text-align:center">My Reading Journal for Code Fellows</p>
 
 ## *Welcome to my journey with Code Fellows*
 
-Hello! My name is Aubrey. I love to paint, build and design things. I can't wait to challenge myself on this new and exciting career path where I can combine many different things I love! 
+### About Me:
+
+<center><img src="https://user-images.githubusercontent.com/113921161/191097043-9b9a9697-f103-43bf-a3d8-6b04ea87e1bd.jpg" width="350" /></center>
+
+
+<center>Hello! My name is Aubrey Corsetti. I love to paint, build and design things. I can't wait to challenge myself on this new and exciting career path where I can combine many different things I love!</center>
 
 ### 🎆 🍹 Cheers to starting something new in 2022! 🍹 🎆
 
@@ -10,7 +15,7 @@ Today I was asked what Growth Mindset is to me... to me that means being open an
 
 ### 🌻 Three DAILY reminders that I use to keep my "Growth Mindset" 🌻
 
->* ☑️ **...YET!** Always add the word "yet" to any doubts you have. Learning takes time and dedication. ✔
+>* ☑️ **...YET!** Always add the word "yet" to any doubts you have. Learning takes time and dedication.
 >* ☑️ Every mistake is an **opportunity** to learn and find the solution. 
 >* ☑️ You've been through worse. **Adapt and grow** like you always have. 
 
