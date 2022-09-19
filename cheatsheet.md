@@ -1,8 +1,8 @@
-# My Cheat Sheet!
+# My Cheat Sheet! 👀
 
 ## *My terminal is the path to everything.. everything is a file!*
 
-### TERMINAL GUIDE:
+### TERMINAL GUIDE: 🦮
 
 >* pwd: YOU ARE HERE/folder you are in
 >* LS: List contents
