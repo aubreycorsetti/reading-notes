@@ -7,6 +7,7 @@
 <center><img src="https://user-images.githubusercontent.com/113921161/191097043-9b9a9697-f103-43bf-a3d8-6b04ea87e1bd.jpg" width="350" /></center>
 
 
+
 <center>Hello! My name is Aubrey Corsetti. I love to paint, build and design things. I can't wait to challenge myself on this new and exciting career path where I can combine many different things I love!</center>
 
 ### <center>🎆 🍹 Cheers to starting something new in 2022! 🍹 🎆</center>
