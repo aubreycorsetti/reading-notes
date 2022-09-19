@@ -21,4 +21,4 @@
   >* ☑️ You've been through worse. <mark>Adapt and grow</mark> like you always have.
 
 
-### Here's my GitHub portfolio link: *https://github.com/aubreycorsetti/aubreycorsetti*
+### Here's my GitHub portfolio link: *https://www.github.com/aubreycorsetti/aubreycorsetti*
