@@ -14,6 +14,14 @@
 
 > Git is an open source software for distributed version control. Otherwise known as DVCS.
 
+Git can reside in 3 main stages.
+
+* Commited: Data is securely stored in local database
+
+* Modified: File has been changed but not commited to the database
+
+* Staged: Flagged a file's changed version to be commited into the next snapshot
+
 ### What is a Repository?
 
 > A repository is a folder or file being tracked with Git.
