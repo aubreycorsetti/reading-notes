@@ -1,6 +1,6 @@
 # My Cheat Sheet! 👀
 
-## *My terminal is the path to everything.. everything is a file!*
+## *The terminal is the path to everything.. everything is a file!*
 
 ### TERMINAL GUIDE: 🦮
 

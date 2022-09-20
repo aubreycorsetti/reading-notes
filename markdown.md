@@ -1,24 +1,32 @@
-# Markdown Madness!
+# Markdown Madness
 
-## What I've learned...
+## What I've learned
 
 ### What is a *Markdown*?
+
 Today I learned that a markdown is a way to use symbols to create the way your site is presented!
 
 #### *For example..*
 
-You can create a header size using on a scale from 1-6 using the # symbol! 1 being the largest and 6 being the smallest size. 
+You can create a header size using on a scale from 1-6 using the # symbol! 1 being the largest and 6 being the smallest size.
 
-*(placement is key! make sure you always place the # symbol FIRST then add a space before any text)*
+##### *(placement is key! make sure you always place the # symbol FIRST then add a space before any text)*
 
-# Largest Header 
-(#)
 ## Second Largest Header
-(##)
-###### Smallest Header
-(######)
 
-### You can also style/emphisize your text!
+(##)
+
+### Medium Header
+
+(###)
+
+#### Small Header
+
+(####)
+
+> **So on and so forth**
+
+### You can also style/emphisize your text
 
 #### *Here are a few examples...*
 
@@ -30,14 +38,13 @@ DO YOU EVER FEEL LIKE ~~STRIKINGDOWN~~ , DO YOU EVER FEEL OUT OF PLACE? Add 2 ~~
 
 ### How to add an image 👀
 
-What would a website be if it didn't have images? To insert an image add ! and wrap the alt text in []followed by the image file in parenthesis ()! EX: [asdjf]()
+What would a website be if it didn't have images? To insert an image add ! and wrap the alt text in []followed by the image file in parenthesis ()!
 
 ![If you see this then I successfully added an image](https://d2kspx2x29brck.cloudfront.net/1200x675/filters:format(webp)/img/iea/yrwQvLJbON/programmer-memes.jpg)
 
 I also learned how to insert... EMOJIS! 😄 A simple way to add an emoji is by adding : infront of the desired emoticon!
 
-
-### Need a list? 
+### Need a list?
 
 You can make an unordered list by preceeding 1+ lines with * or -
   
@@ -51,5 +58,4 @@ To make a numbered list add a number preceeding the text!
 2. You're number two!
 3. Three's a team! Woo!
 
-
-<mark>There is so much more I have learned and cannot wait to learn more about!</mark>
+There is so much more I have learned and cannot wait to learn more about!
