@@ -30,7 +30,7 @@ DO YOU EVER FEEL LIKE ~~STRIKINGDOWN~~ , DO YOU EVER FEEL OUT OF PLACE? Add 2 ~~
 
 ### How to add an image 👀
 
-What would a website be if it didn't have images? To insert an image add ! and wrap the alt text in []
+What would a website be if it didn't have images? To insert an image add ! and wrap the alt text in []followed by the image file in parenthesis ()! EX: [asdjf]( picture link )
 
 ![If you see this then I successfully added an image](https://d2kspx2x29brck.cloudfront.net/1200x675/filters:format(webp)/img/iea/yrwQvLJbON/programmer-memes.jpg)
 
