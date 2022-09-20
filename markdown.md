@@ -36,6 +36,7 @@ What would a website be if it didn't have images? To insert an image add ! and w
 
 I also learned how to insert... EMOJIS! 😄 A simple way to add an emoji is by adding : infront of the desired emoticon!
 
+
 ### Need a list? 
 
 You can make an unordered list by preceeding 1+ lines with * or -
