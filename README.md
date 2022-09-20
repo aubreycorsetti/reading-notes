@@ -14,12 +14,12 @@ Hello! My name is Aubrey Corsetti. I love to paint, build and design things. I c
 
 ## Table of Contents
 
-Day 1 notes are [Here!](day1.md)
+Day 1 notes are [Here!](102/day1.md)
 
-Day 2 notes are [Here!](day2.md)
+Day 2 notes are [Here!](102/day2.md)
 
-Cheat sheet notes are [Here!](cheatsheet.md)
+Cheat sheet notes are [Here!](102/cheatsheet.md)
 
-Growth mindset notes are [Here!](growthmindset.md)
+Growth mindset notes are [Here!](102/growthmindset.md)
 
-Are you trying to find [MarkdownMadness??](markdown.md)
+Are you trying to find [MarkdownMadness??](102/markdown.md)

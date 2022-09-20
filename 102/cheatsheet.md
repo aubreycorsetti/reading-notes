@@ -18,4 +18,4 @@
 
 ### YES. Your terminal is case sensitive
 
-[Click to return to Home](README.md)
+[Click to return to Home](../README.md)

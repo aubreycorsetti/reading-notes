@@ -44,4 +44,4 @@ Git can reside in 3 main stages.
 5. git status
 6. git push origin main     -This pushes the new information back into GitHub
 
-[Click here to return Home](README.md)
+[Click here to return Home](../README.md)

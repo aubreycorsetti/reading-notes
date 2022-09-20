@@ -25,4 +25,4 @@ Today I've learned that there are different kind of text editors.
 * syntax highlighting so my text is easy to read
 * a healthy selection of extentions available
 
-[Click to return to Home](README.md)
+[Click to return to Home](../README.md)
