@@ -16,6 +16,10 @@ Hello! My name is Aubrey Corsetti. I love to paint, build and design things. I c
 
 Day 1 notes are [Here!](day1.md)
 
+Day 2 notes are [Here!](day2.md)
+
 Cheat sheet notes are [Here!](cheatsheet.md)
+
+Growth mindset notes are [Here!](growthmindset.md)
 
 Are you trying to find [MarkdownMadness??](markdown.md)
