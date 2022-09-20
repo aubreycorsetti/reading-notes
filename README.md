@@ -18,6 +18,8 @@ Day 1 notes are [Here!](102/day1.md)
 
 Day 2 notes are [Here!](102/day2.md)
 
+HTML notes are [Here!](102/htmlnotes.md)
+
 Cheat sheet notes are [Here!](102/cheatsheet.md)
 
 Growth mindset notes are [Here!](102/growthmindset.md)
