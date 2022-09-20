@@ -26,4 +26,4 @@ Day 1 notes are [Here!](day1.md)
 
 Cheat sheet notes are [Here!](cheatsheet.md)
 
-Are you trying to find [MarkupMadness??](markup.md)
+Are you trying to find [MarkdownMadness??](markdown.md)
