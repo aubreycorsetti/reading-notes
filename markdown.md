@@ -59,3 +59,5 @@ To make a numbered list add a number preceeding the text!
 3. Three's a team! Woo!
 
 There is so much more I have learned and cannot wait to learn more about!
+
+[Click to return Home](README.md)

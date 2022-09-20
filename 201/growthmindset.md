@@ -5,3 +5,5 @@ Today I was asked what Growth Mindset is to me... to me that means being open an
   >* ☑️ *...YET!* Always add the word "yet" to any doubts you have. Learning takes time and dedication.
   >* ☑️ Every mistake is an *opportunity* to learn and find the solution.
   >* ☑️ You've been through worse. *Adapt* and grow like you always have.
+
+[Click to return Home](README.md)

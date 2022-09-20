@@ -24,3 +24,5 @@ Today I've learned that there are different kind of text editors.
 * code completion to reduce typos
 * syntax highlighting so my text is easy to read
 * a healthy selection of extentions available
+
+[Click to return to Home](README.md)

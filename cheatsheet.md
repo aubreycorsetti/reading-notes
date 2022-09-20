@@ -17,3 +17,5 @@
 >* ls/home/aubrey/documents: *Absolute* paths that specify the location of a document from the root directory (these start with a /)
 
 ### YES. Your terminal is case sensitive
+
+[Click to return to Home](README.md)
