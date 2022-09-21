@@ -53,7 +53,7 @@ There are 4 different variables.
 
 LET:
 
-*EX: 
+*EX:
 Input: Let x = 10;
 
     x is the variable
