@@ -30,8 +30,12 @@ An assignment operator assigns a value to its left operand based on the value of
 * If present, the update expression incrementExpression is executed.
 Control returns to Step 2.
 
+In JavaScript, the for statement declares the variable i and initializes it to 0. It checks that i is less than the number of options in the < select > element, performs the succeeding if statement, and increments i by 1 after each pass through the loop.
+
 ### While statement
 
 *A while statement executes its statements as long as a specified condition evaluates to true.*
 
 * If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop. The condition test occurs before statement in the loop is executed. If the condition returns true, statement is executed and the condition is tested again. If the condition returns false, execution stops, and control is passed to the statement following while. To execute multiple statements, use a block statement ({ }) to group those statements.
+
+Click to return [Home!](../README.md)

@@ -56,3 +56,5 @@ Arithmetic operators are used to perform arithmetic on numbers: + (addition) - (
 typeof -Returns the type of a variable
 
 instanceof -Returns true if an object is an instance of an object type
+
+Click to return [Home!](../README.md)

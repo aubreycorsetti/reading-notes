@@ -24,6 +24,10 @@ CSS notes are [Here!](102/cssnotes.md)
 
 JavaScript notes are [Here!](102/day3.md)
 
+JavaScript cont notes are [Here!](102/day4.md)
+
+Day 4 notes are [Here!](102/class5.md)
+
 Cheat sheet notes are [Here!](102/cheatsheet.md)
 
 Growth mindset notes are [Here!](102/growthmindset.md)
