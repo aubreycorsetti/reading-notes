@@ -20,6 +20,8 @@ Day 2 notes are [Here!](102/day2.md)
 
 HTML notes are [Here!](102/htmlnotes.md)
 
+CSS notes are [Here!](102/cssnotes.md)
+
 JavaScript notes are [Here!](102/day3.md)
 
 Cheat sheet notes are [Here!](102/cheatsheet.md)
