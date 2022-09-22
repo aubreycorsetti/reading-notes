@@ -76,4 +76,4 @@ The best way to explain this is by a users name. When prompted to enter a name t
 
 ### JavaScript is very interactive and so much goes into it
 
-Click to retur [Home!](README.md)
+Click to return [Home!](../README.md)

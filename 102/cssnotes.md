@@ -34,4 +34,4 @@ There are 3 ways to insert CSS:
 
 Time to get STYLIN'!
 
-Click to return [Home](README.md)
+Click to return [Home!](../README.md)
