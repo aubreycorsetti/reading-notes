@@ -8,7 +8,7 @@ Control flow is the order in which the computer executes statements in a script.
 
 *Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.*
 
-### Java Script Functions:
+### Java Script Functions
 
 A JavaScript function is a block of code designed to perform a particular task. A JavaScript function is executed when "something" invokes it (calls it). A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses (). Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
 
@@ -18,7 +18,7 @@ The code to be executed by the function is placed in curly brackets {}
 
 There are different types of JavaScript operators:
 
-* Aritmetic Operators: 
+* Aritmetic Operators:
 
 Arithmetic operators are used to perform arithmetic on numbers: + (addition) - (subtraction) * (multiplication) ** (exponentiation) / (division) % (modulus-division remainder) ++ (increment) -- (decrement)
 
@@ -26,7 +26,7 @@ Arithmetic operators are used to perform arithmetic on numbers: + (addition) - (
 
  The assignment operator (=) assigns a value to a variable.
 
-* Comparison Operators: 
+* Comparison Operators:
 
 ==	equal to
 
@@ -35,7 +35,6 @@ Arithmetic operators are used to perform arithmetic on numbers: + (addition) - (
 !=	not equal
 
 !==	not equal value or not equal type
-
 
 <	less than
 
