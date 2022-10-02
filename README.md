@@ -4,7 +4,7 @@
 
 ### About Me
 
-![Here we go!](https://user-images.githubusercontent.com/113921161/191097043-9b9a9697-f103-43bf-a3d8-6b04ea87e1bd.jpg)
+![Here we go!](https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/309965741_2285212331654528_7545689339708992257_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7CIIlW1UzWoAX-tvsda&_nc_ht=scontent-sea1-1.xx&oh=00_AT912dWYsqK_NfByY370H-Nmb718KwCma379f-EjtHsiVw&oe=633E8296)
 
 Hello! My name is Aubrey Corsetti. I love to paint, build and design things. I can't wait to challenge myself on this new and exciting career path where I can combine many different things I love!
 
