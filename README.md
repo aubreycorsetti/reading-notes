@@ -8,13 +8,17 @@
 
 Hello! My name is Aubrey Corsetti. I love to paint, build and design things. I can't wait to challenge myself on this new and exciting career path where I can combine many different things I love!
 
+### *What is this site about?*
+
+This site is about everything I have learned during my journey on becoming a software developer! It also is a resource for me to go back and refresh my mind on subjects I have learned but need help with.
+
 ### 🎆 🍹 Cheers to starting something new in 2022! 🍹 🎆
 
 ### *Here's my GitHub portfolio link:* <https://github.com/aubreycorsetti/aubreycorsetti>
 
 ## Table of Contents
 
-### Course 201
+### Course 201 Reading Notes
 
 Day 1 notes are [Here!](201/day1.md)
 
@@ -46,7 +50,7 @@ Day 14 notes are [Here!](201/day14.md)
 
 Day 15 notes are [Here!](201/day15.md)
 
-### Course 102
+### Course 102 Reading Notes
 
 Day 1 notes are [Here!](102/day1.md)
 
