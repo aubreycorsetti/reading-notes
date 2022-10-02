@@ -14,6 +14,40 @@ Hello! My name is Aubrey Corsetti. I love to paint, build and design things. I c
 
 ## Table of Contents
 
+### Course 201
+
+Day 1 notes are [Here!](201/day1.md)
+
+Day 2 notes are [Here!](201/day2.md)
+
+Day 3 notes are [Here!](201/day3.md)
+
+Day 4 notes are [Here!](201/day4.md)
+
+Day 5 notes are [Here!](201/day5.md)
+
+Day 6 notes are [Here!](201/day6.md)
+
+Day 7 notes are [Here!](201/day7.md)
+
+Day 8 notes are [Here!](201/day8.md)
+
+Day 9 notes are [Here!](201/day9.md)
+
+Day 10 notes are [Here!](201/day10.md)
+
+Day 11 notes are [Here!](201/day11.md)
+
+Day 12 notes are [Here!](201/day12.md)
+
+Day 13 notes are [Here!](201/day13.md)
+
+Day 14 notes are [Here!](201/day14.md)
+
+Day 15 notes are [Here!](201/day15.md)
+
+### Course 102
+
 Day 1 notes are [Here!](102/day1.md)
 
 Day 2 notes are [Here!](102/day2.md)
