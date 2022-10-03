@@ -60,9 +60,22 @@
     > H1 element is a semantic element which gives the text it wraps around the role/meaning of "a top level heading on your page while a span element will only look like a header but have no semantic value.
  2. What are the benefits of using semantic tags in our HTML?
 
+    > * Search engines will consider its contents as important keywords to influence the page's search rankings.
+
+    > * Screen readers can use it as a signpost to help visually impaired users navigate a page
+
+    > * Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+
+    > * Suggests to the developer the type of data that will be populated
+
+    > * Semantic naming mirrors proper custom element/component naming
+
 ### *What is JavaScipt*
 
  1. Describe 2 things that require JavaScript in the Browser?
+    > Interpreted versus compiled code:
+    > Server-side versus client-side code:
  2. How can you add JavaScript to an HTML document?
+    > by using script element in closing brackets.
 
 Click to return [Home!](../README.md)
