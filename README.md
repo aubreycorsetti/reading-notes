@@ -20,6 +20,8 @@ This site is about everything I have learned during my journey on becoming a sof
 
 ### Course 201 Reading Notes
 
+Class-01 notes are [Here!](201/class-01.md)
+
 Day 1 notes are [Here!](201/day1.md)
 
 Day 2 notes are [Here!](201/day2.md)
