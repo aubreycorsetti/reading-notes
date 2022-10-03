@@ -73,8 +73,7 @@
 ### *What is JavaScipt*
 
  1. Describe 2 things that require JavaScript in the Browser?
-    > Interpreted versus compiled code:
-    > Server-side versus client-side code:
+    > Dynamically updating content and animated images.
  2. How can you add JavaScript to an HTML document?
     > by using script element in closing brackets.
 
