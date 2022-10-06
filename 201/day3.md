@@ -2,6 +2,10 @@
 
 ## HTML Links, JS Functions, and Intro to CSS Layout
 
+### Why this topic matters
+
+> *This topic matters because it helps with the clarity and easy use of the websites I create for the users*
+
 ### Creating Hyperlinks
 
 > 1. To create a basic link, we wrap text or other content inside what element?
@@ -52,7 +56,10 @@
 
 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
     * Learning from fellow students- Having experienced this on my journey so far I've noticed this has helped me immensly by helping me see so many different scenarios and finding many different solutions to problems I have yet to face as well as problems I have faced during my coding.
-    * Work Environment Readiness - I have never been in a tech environment before so knowing the do-s and don't-s of the industry will help me solidify my place and find a job in an environment I can thrive in
-    !
+    * Work Environment Readiness - I have never been in a tech environment before so knowing the do-s and don't-s of the industry will help me solidify my place and find a job in an environment I can thrive in!
+
+### Things I want to more know about
+
+I want to know more about how loops work. I find myself struggling with that the most.
 
 Click to return [Home!](../README.md)
