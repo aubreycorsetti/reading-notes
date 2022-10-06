@@ -14,7 +14,7 @@
 
 > 2. The href attribute contains what information?
 
-    * The href contains the web link or other useful contact informaton such as email addresses and phone numbers.
+    * The href contains the web link or other useful contact information such as email addresses and phone numbers.
 
 > 3. What are some ways we can ensure links on our pages are accessible to all readers?
 
@@ -29,7 +29,7 @@
 ### CSS Layout
 
 1. What is meant by “normal flow”?
-    * Normal flow is when you have the basic site layout put together but havent made any changes with CSS yet.
+    * Normal flow is when you have the basic site layout put together but haven't made any changes with CSS yet.
 
 2. What are a few differences between block-level and inline elements?
     * Block-level: when the content fills the inline space of the parental element.
@@ -42,24 +42,24 @@
     * Using absolute positioning helps specify the distance your element should be from each of the other elements
     * This makes it possible for pop ups to be dragged and placed anywhere on the screen by the user
 5. What is a key difference between fixed positioning and absolute positioning?
-    * Fixed positioning: fixes an element in place relative to the visable portion
-    * Absolute postioning: fixes an element in place relative to the closest other elements.
+    * Fixed positioning: fixes an element in place relative to the visible portion
+    * Absolute positioning: fixes an element in place relative to the closest other elements.
 
 ### Learn JS
 
 > 1. Describe the difference between a function declaration and a function invocation.
-    * Function declartion is defining what the function will do
+    * Function declaration is defining what the function will do
 
-    * Funtion invocation is when the function is called upon to do something.
+    * Function invocation is when the function is called upon to do something.
 
 > 2. What is the difference between a parameter and an argument?
 
-    * Parameters are sometimes called funtions! A parameter is the value provided when when a funtion is called and uses them to calculate/complete the steps requested. An argument is what sits in place of the parameter that is called within the function.
+    * Parameters are sometimes called functions! A parameter is the value provided when when a function is called and uses them to calculate/complete the steps requested. An argument is what sits in place of the parameter that is called within the function.
 
 ### Misc
 
 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
-    * Learning from fellow students- Having experienced this on my journey so far I've noticed this has helped me immensly by helping me see so many different scenarios and finding many different solutions to problems I have yet to face as well as problems I have faced during my coding.
+    * Learning from fellow students- Having experienced this on my journey so far I've noticed this has helped me immensely by helping me see so many different scenarios and finding many different solutions to problems I have yet to face as well as problems I have faced during my coding.
     * Work Environment Readiness - I have never been in a tech environment before so knowing the do-s and don't-s of the industry will help me solidify my place and find a job in an environment I can thrive in!
 
 ### Things I want to more know about
