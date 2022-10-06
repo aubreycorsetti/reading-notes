@@ -14,7 +14,7 @@
 
 > 2. The href attribute contains what information?
 
-    * The href contains the web link.
+    * The href contains the web link or other useful contact informaton such as email addresses and phone numbers.
 
 > 3. What are some ways we can ensure links on our pages are accessible to all readers?
 
@@ -33,7 +33,7 @@
 
 2. What are a few differences between block-level and inline elements?
     * Block-level: when the content fills the inline space of the parental element.
-    * Inline-Element: is the size of the content
+    * Inline-Element: is the size of the content and only takes up horizontal space.
 
 3. **Static** positioning is the default for every html element.
 
@@ -48,9 +48,13 @@
 ### Learn JS
 
 > 1. Describe the difference between a function declaration and a function invocation.
-    * Function declartion and function invocation are the same thing. The invocation happens bu including the name of the code somewhere followed by parentheses and function declaration is always hoisted so you can call function above funtion definition and it should work just fine
+    * Function declartion is defining what the function will do
+
+    * Funtion invocation is when the function is called upon to do something.
+
 > 2. What is the difference between a parameter and an argument?
-    * Parameters are sometimes called funtions
+
+    * Parameters are sometimes called funtions! A parameter is the value provided when when a funtion is called and uses them to calculate/complete the steps requested. An argument is what sits in place of the parameter that is called within the function.
 
 ### Misc
 
@@ -60,6 +64,6 @@
 
 ### Things I want to more know about
 
-I want to know more about how loops work. I find myself struggling with that the most.
+I want to know more about how loops work. I find myself struggling with that the most. I am loving everything about learning this!
 
 Click to return [Home!](../README.md)
