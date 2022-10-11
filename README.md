@@ -24,19 +24,17 @@ Class-01 notes are [Here!](201/class-01.md)
 
 Data Type notes are [Here!](201/datatypes.md)
 
-Day 1 notes are [Here!](201/day1.md)
+Day 2 notes are [Here!](201/day1.md)
 
-Day 2 notes are [Here!](201/day2.md)
+Day 3 notes are [Here!](201/day2.md)
 
-Day 3 notes are [Here!](201/day3.md)
+Day 4 notes are [Here!](201/day3.md)
 
-Day 4 notes are [Here!](201/day4.md)
+Day 5 notes are [Here!](201/day4.md)
 
-Day 5 notes are [Here!](201/day5.md)
+Day 6 notes are [Here!](201/day5.md)
 
-Day 6 notes are [Here!](201/day6.md)
-
-Day 7 notes are [Here!](201/day7.md)
+Day 7 notes are [Here!](201/day6.md)
 
 Day 8 notes are [Here!](201/day8.md)
 
