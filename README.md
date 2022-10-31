@@ -18,7 +18,9 @@ This site is about everything I have learned during my journey on becoming a sof
 
 ## Table of Contents
 
-### Course 201 Reading Notes
+### Course 301 Reading Notes: Intermediate Software Development
+
+### Course 201 Reading Notes: Foundations of Software Development
 
 Class-01 notes are [Here!](201/class-01.md)
 
@@ -52,7 +54,7 @@ Day 14 notes are [Here!](201/day14.md)
 
 Day 15 notes are [Here!](201/day15.md)
 
-### Course 102 Reading Notes
+### Course 102 Reading Notes: Intro to Software Development
 
 Day 1 notes are [Here!](102/day1.md)
 
