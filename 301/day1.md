@@ -38,8 +38,9 @@
 
   • shopping lists, purchased products, forms, anything that has an updating value etc
 
-Click to return [Home!](../README.md)
-
 ### Things I want to learn more about
 
 > I want to learn more about how to actually write the code for this.
+
+Click to return [Home!](../README.md)
+
