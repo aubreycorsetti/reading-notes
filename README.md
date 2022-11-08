@@ -20,6 +20,10 @@ This site is about everything I have learned during my journey on becoming a sof
 
 ### Course 301 Reading Notes: Intermediate Software Development
 
+PreWork-01 notes are [Here!](301/pre-work1.md)
+
+Day 1 notes are [Here!](301/day1.md)
+
 ### Course 201 Reading Notes: Foundations of Software Development
 
 Class-01 notes are [Here!](201/class-01.md)
