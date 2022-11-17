@@ -36,6 +36,8 @@ Day 6 notes are [Here!](301/day6.md)
 
 Day 7 notes are [Here!](301/day7.md)
 
+Day 8 notes are [Here!](301/day8.md)
+
 ### Course 201 Reading Notes: Foundations of Software Development
 
 Class-01 notes are [Here!](201/class-01.md)
