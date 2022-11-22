@@ -40,6 +40,10 @@ Day 8 notes are [Here!](301/day8.md)
 
 Day 9 notes are [Here!](301/day9.md)
 
+Day 10 notes are [Here!](301/day10.md)
+
+Day 11 notes are [Here!](301/day11.md)
+
 ### Course 201 Reading Notes: Foundations of Software Development
 
 Class-01 notes are [Here!](201/class-01.md)
