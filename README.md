@@ -44,6 +44,8 @@ Day 10 notes are [Here!](301/day10.md)
 
 Day 11 notes are [Here!](301/day11.md)
 
+Day 12 notes are [Here!](301/day12.md)
+
 ### Course 201 Reading Notes: Foundations of Software Development
 
 Class-01 notes are [Here!](201/class-01.md)
