@@ -18,6 +18,12 @@ This site is about everything I have learned during my journey on becoming a sof
 
 ## Table of Contents
 
+### Course 401 Reading Notes: Advanced Software Development in Python
+
+PreWork SQL notes are [Here!](401/SQL.md)
+
+PreWork Command Line notes are [Here!](401/commandLine.md)
+
 ### Course 301 Reading Notes: Intermediate Software Development
 
 PreWork-01 notes are [Here!](301/pre-work1.md)
