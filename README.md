@@ -24,6 +24,10 @@ PreWork SQL notes are [Here!](401/SQL.md)
 
 PreWork Command Line notes are [Here!](401/commandLine.md)
 
+PreWork Reading notes are [Here!](401/prework1.md)
+
+Growth Mindset notes are [Here!](401/growthMindset.md)
+
 ### Course 301 Reading Notes: Intermediate Software Development
 
 PreWork-01 notes are [Here!](301/pre-work1.md)
