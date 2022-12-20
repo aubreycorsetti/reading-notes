@@ -28,6 +28,13 @@ PreWork Reading notes are [Here!](401/prework1.md)
 
 Growth Mindset notes are [Here!](401/growthMindset.md)
 
+Data Structures and Algorithm notes are [Here!](401/dsa.md)
+
+Engineering Reading notes are [Here!](401/engineeringReadings.md)
+
+Day 1 notes are [Here!](401/day1.md)
+
+
 ### Course 301 Reading Notes: Intermediate Software Development
 
 PreWork-01 notes are [Here!](301/pre-work1.md)
