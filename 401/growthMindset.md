@@ -39,4 +39,8 @@
 
 • According to the results, I have high-self awareness. The areas I am strongest are Empathy and Curiosity, What is Bias, Meaningful Connections and Four ways to act with Courage. The areas I am weakest is Bias and Identity. The main part that I will be working on is really allowing myself to show through my work.
 
+### Things I want to know more about
+
+I would like to know as much as I can about Python and see how I grow and overcome things with this course
+
 Click to return [Home!](../README.md)
