@@ -4,6 +4,8 @@
 
 ### In Tests We Trust
 
+• TDD stands for Test Driven Development
+
 • Unit tests- what are they?
   > Unit tests are pieces of code to exercise the input, output and behavior of your cide. These can be written anytime.
 

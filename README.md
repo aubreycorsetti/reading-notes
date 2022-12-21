@@ -34,6 +34,7 @@ Engineering Reading notes are [Here!](401/engineeringReadings.md)
 
 Day 1 notes are [Here!](401/day1.md)
 
+Day 2 notes are [Here!](401/day2.md)
 
 ### Course 301 Reading Notes: Intermediate Software Development
 
