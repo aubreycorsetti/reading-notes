@@ -4,14 +4,14 @@
 
 ### Upgrade Your Skills
 
-• You'll never get better if you don't pratice. Push yourself outside of your comfort zone.
+• You'll never get better if you don't practice. Push yourself outside of your comfort zone.
 
 • Key ideas behind deliberate practice:
 
   > 1. Pushes you outside your comfort zone
   > 2. Repeat often
   > 3. Feedback on results in continuously available
-  > 4. It's hihglyy demanding mentally
+  > 4. It's highly demanding mentally
   > 5. It's difficult
   > 6. It requires good goals
 
