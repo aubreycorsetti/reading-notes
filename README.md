@@ -54,6 +54,8 @@ Day 10 notes are [Here!](401/day10.md)
 
 Day 11 notes are [Here!](401/day11.md)
 
+Day 12 notes are [Here!](401/day12.md)
+
 ### Course 301 Reading Notes: Intermediate Software Development
 
 PreWork-01 notes are [Here!](301/pre-work1.md)
