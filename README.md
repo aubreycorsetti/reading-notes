@@ -60,6 +60,8 @@ Day 13 notes are [Here!](401/day13.md)
 
 Day 14 notes are [Here!](401/day14.md)
 
+Day 15 notes are [Here!](401/day15.md)
+
 ### Course 301 Reading Notes: Intermediate Software Development
 
 PreWork-01 notes are [Here!](301/pre-work1.md)
