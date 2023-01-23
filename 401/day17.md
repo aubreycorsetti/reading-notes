@@ -43,6 +43,8 @@
 
 #### Things I want to know more about
 
+> I want to learn how to implement and use Django to make my apps more user friendly
+
 #### Sources
 
 [djangoproject.com](https://www.djangoproject.com/start/)
