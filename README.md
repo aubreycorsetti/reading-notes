@@ -66,6 +66,12 @@ Day 16 notes are [Here!](401/day16.md)
 
 Day 17 notes are [Here!](401/day17.md)
 
+Day 18 notes are [Here!](401/day18.md)
+
+Day 19 notes are [Here!](401/day19.md)
+
+Day 20 notes are [Here!](401/day20.md)
+
 ### Course 301 Reading Notes: Intermediate Software Development
 
 PreWork-01 notes are [Here!](301/pre-work1.md)
