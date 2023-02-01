@@ -72,6 +72,20 @@ Day 19 notes are [Here!](401/day19.md)
 
 Day 20 notes are [Here!](401/day20.md)
 
+Day 21 notes are [Here!](401/day2.md)
+
+Day 22 notes are [Here!](401/day22.md)
+
+Day 23 notes are [Here!](401/day23.md)
+
+Day 24 notes are [Here!](401/day24.md)
+
+Day 25 notes are [Here!](401/day25.md)
+
+Day 26 notes are [Here!](401/day26.md)
+
+Day 27 notes are [Here!](401/day27.md)
+
 ### Course 301 Reading Notes: Intermediate Software Development
 
 PreWork-01 notes are [Here!](301/pre-work1.md)
