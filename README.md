@@ -86,6 +86,8 @@ Day 26 notes are [Here!](401/day26.md)
 
 Day 27 notes are [Here!](401/day27.md)
 
+Day 28 notes are [Here!](401/day28.md)
+
 ### Course 301 Reading Notes: Intermediate Software Development
 
 PreWork-01 notes are [Here!](301/pre-work1.md)
